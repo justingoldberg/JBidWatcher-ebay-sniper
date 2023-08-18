@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.7.1
+Created-By: Morgan Schweers @ Cyberfox Software, Inc
+Main-Class: com.jbidwatcher.app.JBidWatch
+Built-By: build
+Implementation-Version: 2.5.5-11-gac197d6
+
